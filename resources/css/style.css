@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img , video{
+    display: block;
+    margin: 20px auto;
+}
+
+h1, h2 {
+    font-weight: normal;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+}
+
+h2 {
+    color: gray
+}
+
+a {
+    color: aquamarine;
+}
+
+footer {
+    text-align: right;
+    color: gray ;
+}
